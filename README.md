@@ -19,8 +19,14 @@ I'm a passionate Python developer with over 5 years of experience crafting robus
 **Evo Technology Solutions Pvt Ltd** | *June 2024 – Present*  
 - Building user-friendly web applications with Django  
 - Implementing secure REST APIs, ORM, and authentication systems  
-- Enhancing application security with CSRF middleware  
-- Leading database management and optimization for the Disha FSM project  
+- Setting up the base code for every project
+- Analyzing requirements and converting XD designs into UML diagrams
+- Provide the REST APIs for mobile and frontend applications
+- Managing version control and deployments (Dev → UAT → Production)
+- Taking project ownership, resolving critical issues, and doing R&D work
+- Dockerizing applications and delivering final Docker images for deployment
+**I’ve contributed to five major projects — three standard projects and two AI-related Projects.**
+**Skills:** Python, Django, ORM, MySQL, PostgreSQL, Sql Celery ,Git, Aws and Full Stack Development.
 
 ### Python Developer / Software Test Engineer  
 **Roboteon Pvt. Ltd** | *Dec 2023 – June 2024*  
